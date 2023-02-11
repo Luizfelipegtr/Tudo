@@ -14,12 +14,13 @@ public class Exercicio_java2 {
             System.out.println("insira sua senha");
             Scanner input2 = new Scanner(System.in);
             String senha = input2.nextLine();
-            if (senha.equalsIgnoreCase("dev_mais_fraco_do_mundo"));
+            if (senha.equalsIgnoreCase("12032006"));
             System.out.println("cadê a bunfunfa?");
             Scanner input3 = new Scanner(System.in);
             String resposta = input3.nextLine();
-            if (resposta.equalsIgnoreCase("não sei");
-            System.out.println();
+            if (resposta.equalsIgnoreCase("não sei");{
+                System.out.println("será");
+            }
 
 
         }

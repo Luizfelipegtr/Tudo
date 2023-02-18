@@ -6,14 +6,14 @@ public class Exercicio_java3 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
-        System.out.println("insira um valor númerico");
-        double nv = input.nextInt();
+        System.out.println(" insira um valor númerico ");
+        int nv = input.nextInt();
 
-        double ns = (nv + 1);
-        System.out.println("O número sucessor é" + ns);
+        int ns = (nv + 1);
+        System.out.println(" O número sucessor é " + ns);
 
-        double na = (nv - 1);
-        System.out.println("O número sucessor é" + na);
+        int na = (nv - 1);
+        System.out.println(" O número sucessor é " + na);
 
         input.close();
     }

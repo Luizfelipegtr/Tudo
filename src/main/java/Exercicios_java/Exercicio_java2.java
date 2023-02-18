@@ -14,6 +14,7 @@ public class Exercicio_java2 {
         double pr = input.nextInt();
 
         double percentualreajustado = (pr/100);
+        System.out.println(percentualreajustado);
         System.out.println("O novo salário com aumento é" + (sm * (1 + percentualreajustado)));
 
         input.close();

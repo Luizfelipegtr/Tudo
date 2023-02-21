@@ -16,5 +16,6 @@ public class Exercicio_java3 {
         System.out.println(" O número sucessor é " + na);
 
         input.close();
+        System.out.println("Drcosmic51");
     }
 }

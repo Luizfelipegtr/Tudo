@@ -15,6 +15,7 @@ public class Exercicio_java5 {
         System.out.println ("O número transformado em positivo é:" + (N));
 
         input.close();
+        System.out.println("Drcosmic51");
 
     }
 }

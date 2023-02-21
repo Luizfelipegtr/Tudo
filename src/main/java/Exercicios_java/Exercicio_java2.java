@@ -18,11 +18,6 @@ public class Exercicio_java2 {
         System.out.println("O novo salário com aumento é" + (sm * (1 + percentualreajustado)));
 
         input.close();
-
-
-
-
-
-
+        System.out.println("Drcosmic51");
     }
 }

@@ -4,17 +4,8 @@ import java.util.Scanner;
 
 public class Exercicio_java9 {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-        while ()
+        Scanner cn = new Scanner(System.in);
+        int contador = cn.nextInt();
 
-
-
-        if (N < 0) {
-
-            System.out.println();
-
-        }
-
-        input.close();
     }
 }

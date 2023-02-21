@@ -18,7 +18,6 @@ public class Exercicio_java4 {
 
         input1.close();
         input2.close();
-
-
+        System.out.println("Drcosmic51");
     }
 }
